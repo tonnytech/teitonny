@@ -15,7 +15,7 @@
 
 -- My website: https://teitonny.github.io/
 
-- ⚡ Fun fact **Hyenas actually have six legs but only four of them are visible..😎**
+- ⚡ Fun fact **Hyenas have six legs but only four of them are visible..😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
